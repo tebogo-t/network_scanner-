@@ -25,11 +25,12 @@ You will be prompted to provide the following information:
 Vulnerability Filename: Enter the name of the vulnerability file to use for scanning. The file should contain a list of known vulnerabilities.
 IP Range: Enter the range of IP addresses to scan in the format start_ip-end_ip (e.g., 192.168.0.1-10).
 
-##Vulnerability File Format
+Vulnerability File Format:
+
 The vulnerability file should be a plain text file containing a list of known vulnerabilities. 
 Each vulnerability should be listed on a separate line. The script will compare the retrieved banner from the service with the lines in the vulnerability file to determine if the server is vulnerable.
 
-## Disclaime
+## Disclaimer
 This script is intended for educational and testing purposes only. Use it responsibly and only on systems that you have permission to scan. The script may produce false positives or miss vulnerabilities. The authors are not responsible for any misuse or damage caused by this script.
 
 
