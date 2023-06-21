@@ -1,0 +1,12 @@
+# Example Vulnerability File
+
+# Remote Code Execution
+CVE-2021-3456: Remote Code Execution vulnerability in Service X
+CVE-2022-1234: Remote Command Injection vulnerability in Service Y
+
+# Authentication Bypass
+Weak password vulnerability in Service Z
+
+# SQL Injection
+CVE-2023-5678: SQL Injection vulnerability in Service A
+
